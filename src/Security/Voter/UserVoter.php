@@ -42,7 +42,7 @@ class UserVoter extends Voter
     /**
      * Return all the paranoïa levels listed in the PARANOIA constant
      */
-    static public function getParanoiaLevels(): array
+    public static function getParanoiaLevels(): array
     {
         return array_keys(self::PARANOIA);
     }

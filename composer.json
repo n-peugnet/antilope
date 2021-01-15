@@ -1,4 +1,6 @@
 {
+    "name": "antilope/antilope",
+    "description": "antilope",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
